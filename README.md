@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About This Repository  
+##  About This Repository  
 
 This repository contains the code and projects I wrote for my **CS 152: Computational Thinking – Science** class.  
 In this course, I learned how to use **Python** to describe, model, and solve scientific problems through computation.  
@@ -16,7 +16,7 @@ The projects in this repository show how I applied computational thinking to top
 
 ---
 
-## 📘 Course Description  
+##  Course Description  
 
 An introduction to computational thinking: how we can describe and solve problems using a computer.  
 Using the **Python language**, students learn to write algorithms, manipulate information, and design programs.  
