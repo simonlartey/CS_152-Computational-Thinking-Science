@@ -65,3 +65,101 @@ This course strengthened both my problem-solving mindset and my ability to expre
 
 ## 🗂️ Directory Layout  
 
+```
+.
+├── my_final_project
+│   ├── __pycache__
+│   │   ├── collision.cpython-311.pyc
+│   │   ├── graphicsPlus.cpython-311.pyc
+│   │   └── physics_objects.cpython-311.pyc
+│   ├── collision.py
+│   ├── graphicsPlus.py
+│   ├── invaders.py
+│   ├── physics_objects.py
+│   └── test_ballclass.py
+├── project01
+│   ├── addthree.py
+│   ├── lab01
+│   │   ├── addthree.py
+│   │   ├── sir_plot.png
+│   │   └── smart.py
+│   ├── my_sir_simulation.py
+│   └── sir_plot.png
+├── project01 2
+│   ├── addthree.py
+│   ├── lab01
+│   │   ├── addthree.py
+│   │   ├── sir_plot.png
+│   │   └── smart.py
+│   ├── my_sir_simulation.py
+│   └── sir_plot.png
+├── project03
+│   ├── Figure_1.png
+│   ├── GoldieJuly2019.csv
+│   ├── __pycache__
+│   │   └── stats.cpython-311.pyc
+│   ├── analyze.py
+│   ├── extension.py
+│   ├── hurricanes.csv
+│   ├── lab03
+│   │   ├── analyze.py
+│   │   ├── com.py
+│   │   ├── hurricanes.csv
+│   │   ├── list_practice.py
+│   │   └── stats.py
+│   ├── plotting_script.py
+│   ├── stats.py
+│   ├── testDensity.py
+│   ├── testThermocline.py
+│   ├── thermo_depth_by_day_in_july.png
+│   ├── thermo_depths_july.csv
+│   └── thermocline.py
+├── project04
+│   ├── CEPD_Plots.png
+│   ├── extension.py
+│   ├── extension2.py
+│   ├── lab04
+│   │   ├── rand.py
+│   │   └── random_numbers.png
+│   └── penguin.py
+├── project06
+│   └── search.py
+├── project_05
+│   ├── elephant.py
+│   ├── extension.py
+│   ├── stats.py
+│   ├── test_calcResults.py
+│   ├── test_calcSurvival.py
+│   ├── test_controlPopulation.py
+│   ├── test_cullElephants.py
+│   ├── test_dartElephants.py
+│   ├── test_simulateMonth.py
+│   └── test_simulateYear.py
+├── project_07
+│   ├── Zelle Graphics Documentation.pdf
+│   ├── __pycache__
+│   │   ├── graphicsPlus.cpython-311.pyc
+│   │   └── physics_objects.cpython-311.pyc
+│   ├── explore.py
+│   ├── extension1.py
+│   ├── extension2.py
+│   ├── fall.py
+│   ├── graphicsPlus.py
+│   ├── physics_objects.py
+│   ├── testBall_1.py
+│   └── testCollision.py
+└── project_08
+    ├── __pycache__
+    │   ├── collision.cpython-311.pyc
+    │   ├── graphicsPlus.cpython-311.pyc
+    │   └── physics_objects.cpython-311.pyc
+    ├── collision.py
+    ├── extension_1.py
+    ├── extention_2.py
+    ├── graphicsPlus.py
+    ├── physics_objects.py
+    ├── pinball.py
+    ├── test_ballclass.py
+    └── wordmap.py
+```
+
